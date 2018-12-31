@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Users/treyhakanson/Programming/Projects/habit-builder/src/index.css"],"names":[],"mappings":"AAAA,EACC,sBAAuB,AACvB,QAAU,CACV,AAED,KACE,2BAAgC,CACjC","file":"main.77d6d5f4.chunk.css","sourcesContent":["* {\n\tbox-sizing: border-box;\n\tmargin: 0;\n}\n\nbody {\n  font-family: 'Muli', sans-serif;\n}\n"]}
